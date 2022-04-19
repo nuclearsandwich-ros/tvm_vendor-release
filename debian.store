@@ -1,1 +1,1 @@
-{"base": "b90b699", "parent": "debian/rolling/tvm_vendor", "previous": "475acc8", "trim": "", "trimbase": ""}
+{"base": "8df7250", "parent": "debian/humble/tvm_vendor", "previous": "8e6c6fa", "trim": "", "trimbase": ""}
